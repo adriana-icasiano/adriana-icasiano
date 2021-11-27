@@ -1,8 +1,8 @@
 # I'm a CPA, Data Analyst, and Runner # 
 - 👋 Hi, I’m @adriana-icasiano
 - 👀 I’m interested in Python, Database Design, Statistics and Tableau
-- 🌱 I’m currently learning about Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning
+- 🌱 I’m currently learning about Machine Learning and Web Application
+- 💞️ I’m looking to collaborate on Machine Learning and Web Application
 
 ## Connect with me ##
 - 📫 How to reach me adri.data.2021@gmail.com
