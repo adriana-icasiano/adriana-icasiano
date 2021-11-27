@@ -1,4 +1,4 @@
-# I'm a CPA, Data Analyst, passionate learner and Runner # 
+# I'm a CPA, Data Analyst, and Runner # 
 - 👋 Hi, I’m @adriana-icasiano
 - 👀 I’m interested in Python, Database Design, Statistics and Tableau
 - 🌱 I’m currently learning about Machine Learning
